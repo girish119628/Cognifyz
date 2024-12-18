@@ -1,7 +1,7 @@
 #                          **Cognifyz**
 # Restaurants Analysis of their cuisines, Average cost, Ratings, Table booking, and online delivery
 
-* The Project has divided into 3 Levels and each level deal with diffenet approach:
+* The Project has divided into 3 Levels and each level deal with diffenet analysis:
 
 # **Level-1 
 * **Top Cuisines**
@@ -30,3 +30,14 @@ Identifying any patterns or clusters of restaurants in specific areas.
 * **Restaurant Chains**
 Identifying if there are any restaurant chains present.
 Analyzing the ratings and popularity of different restaurant chains.
+
+# **Level-3**
+* **Restaurant Reviews**
+Analyzing the text reviews to identify the most common positive and negative keywords.
+Calculating the average length of reviews andexplore if there is a relationship between review length and rating.
+* **Votes Analysis**
+Identifying the restaurants with the highest and lowest number of votes.
+Analyzing if there is a correlation between the number of votes and the rating of a restaurant.
+* **Price Range vs. Online Delivery and Table Booking**
+Analyzing if there is a relationship between the price range and the availability of online delivery and table booking.
+Determining if higher-priced restaurants are more likely to offer these services.
